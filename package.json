@@ -1,7 +1,7 @@
 {
-  "name": "chatbotslife",
+  "name": "AmharicChatBot",
   "version": "0.2.5",
-  "description": "A sample chatbot  app ",
+  "description": "The first Amharic chatbot ",
   "engines": {
     "node": "5.9.1"
   },
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/chatbotslife"
+    "url": "https://github.com/heroku/AmharicChatBot"
   },
   "keywords": [
     "node",
